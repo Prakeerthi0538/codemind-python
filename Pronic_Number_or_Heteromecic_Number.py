@@ -1,3 +1,5 @@
+
+
 n=int(input())
 i=1
 flag=0
