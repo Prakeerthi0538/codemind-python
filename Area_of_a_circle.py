@@ -1,3 +1,4 @@
 a=int(input())
-b=a*a*3.14
-print(round(b,2))
+area=float(3.14*a*a)
+c=round(area,2)
+print(c)
